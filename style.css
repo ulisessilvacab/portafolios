@@ -1,0 +1,42 @@
+html{
+  background: black;
+  margin: 20px ;
+  padding: 20px ;
+  height: 8%;
+}
+
+h1{
+    
+    class: align-center;
+    color:white;
+    font-family: 'Arial';
+    font-size: 35px;  
+}
+
+h1, h2, .center{
+    text-align: center;
+}
+
+h2{
+  color:white;
+  font-family:'Arial';
+  font-size:20px;
+}
+
+h3{
+  color: white;
+  font-size: 15px;
+}
+
+p{
+    color:white;
+    font-family: 'Arial';
+    font-size: 20px
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* html refers to the whole html code asisgning different characteristics to the whole site including the margin padding height and background and the same goes for each element h1,h2,h3 and p */
